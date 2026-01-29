@@ -46,4 +46,4 @@ Key analysis questions explored include:
 The interactive Tableau dashboard was created to visualize key findings from the SQL analysis, including layoff trends over time, top affected industries, and country-level impacts.
 
 🔗 **View the interactive dashboard on Tableau Public:**  
-[Click here to view the dashboard]([(https://public.tableau.com/app/profile/amani.rahmani/viz/GlobalLayOffProject/Dashboard1)])
+[Click here to view the dashboard]((https://public.tableau.com/views/GlobalLayOffProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
