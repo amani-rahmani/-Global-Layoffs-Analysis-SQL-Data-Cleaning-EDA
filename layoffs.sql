@@ -10,7 +10,7 @@ LIKE layoffs;
 
 INSERT layoffs_copy 
 SELECT * FROM layoffs;
--- creating a se
+-- creating a  copy of the data 
 SELECT company, industry, total_laid_off,`date`,stage, country, funds_raised_millions,
 		ROW_NUMBER() OVER (
 			PARTITION BY company, industry, total_laid_off,`date`,stage, country, funds_raised_millions) AS row_num
